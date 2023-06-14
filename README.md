@@ -1,1 +1,1 @@
-"# small_things"
+Small projects not deserving their own repo
